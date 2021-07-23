@@ -3363,4 +3363,8 @@ img.spin {
   filter: brightness(0.7);
 }
 
-/*# sourceMappingURL=maps/main.css.map */
+/*# custom theme */
+
+.daftar-isi {
+  background-color: #0C39F8;
+}
